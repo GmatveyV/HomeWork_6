@@ -70,6 +70,12 @@ _Наклонный _ _шрифт_
 
 
 
+---
+
+
+
+
+
 from string import ascii_uppercase
 
 class Alphabet:
